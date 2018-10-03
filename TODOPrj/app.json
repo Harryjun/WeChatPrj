@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/todo/todo"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "TODO备忘录",
+    "navigationBarTextStyle":"black"
+  }
+}
